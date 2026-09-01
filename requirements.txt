@@ -1,0 +1,11 @@
+# Anforderungen für App-CGP
+streamlit
+pandas
+# Para informes en Excel
+openpyxl
+# Para informes en PDF
+reportlab
+# Para informes en Word
+python-docx
+# Para base de datos SQL (ya viene en Python, pero es buena práctica)
+SQLAlchemy
