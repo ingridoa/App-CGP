@@ -1,0 +1,5 @@
+ID,Fecha_Transaccion,Tipo_Movimiento,Categoria,Detalle,Responsable,Medio_Pago,Monto_Original_CLP,Monto_Corregido_CLP,Usuario_Corrigio,Ruta_Comprobante,Usuario_Registro,Estado_Registro
+1,2026-08-31,Ingreso,Cuota Incorporación,Pago de incorporacion Marzo,Juan garcia,Transferencia / Cuenta,1000000,0,Sin Corrección,comprobantes\comprobante_1.jpg,admin,ACTIVO
+2,2026-08-31,Egreso,Gastos Operativos,deposito en pesos,juan perez,Transferencia / Cuenta,500000,50000,admin,comprobantes\comprobante_2.jpeg,admin,ACTIVO
+3,2026-08-31,Ingreso,Cuota Incorporación,ingreso a principio de año,juanita perez,Efectivo,100000,0,Sin Corrección,comprobantes\comprobante_3.jpg,admin,ACTIVO
+4,,Ingreso,Cuota Incorporación,adjunto documento,Ingrid,Efectivo,100000,2000000,admin,comprobantes\comprobante_4.png,admin,ACTIVO

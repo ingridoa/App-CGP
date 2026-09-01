@@ -1,0 +1,4 @@
+Usuario,Password_Hash,Nombre,Rol,Estado_Aprobacion,Tipo_Login
+admin,240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9,Administrador General,Administrador,APROBADO,Local
+usuario.google@cgpa.cl,GOOGLE_OAUTH,Usuario Google,Tesorero/Operador,PENDIENTE,Google
+Juanita ,c4680777e5136fdc61dc1506d6bb5c989cf2d776c1ab7ec12facacd79f959e90,juanita perez,Tesorero/Operador,PENDIENTE,Local
